@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lindsay Graef"
+  site-url: "https://lagraef.github.io/website/"
+  navbar:
+    title: "Lindsay Graef"
+    left:
+      - text: "About me"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Penn Prosecution Lab"
+        href: https://www.law.upenn.edu/institutes/quattronecenter/
+      - text: "Contact"
+        href: contact.qmd
+    right: []
+  page-footer:
+    center: "© Lindsay Graef"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
