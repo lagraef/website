@@ -4,4 +4,3 @@ title: "CV"
 
 My CV is available [here](cv/Lindsay-Graef-CV.pdf).
 
-<!-- Replace the placeholder PDF in the cv folder with your current CV using the same filename. -->

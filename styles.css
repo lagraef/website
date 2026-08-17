@@ -97,3 +97,18 @@ a {
     padding-right: 1.25rem;
   }
 }
+
+main.content {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Hyperlink color */
+a {
+  color: #D43A2F;
+}
+
+a:hover {
+  color: #B2342A;
+}

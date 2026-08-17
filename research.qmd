@@ -3,16 +3,16 @@ title: "Research"
 ---
 ### Publications
 
-Nguyen, V., & Graef, L. (2026). **The Net-Narrowing Potential of Diversion: A Theoretical and Empirical Assessment of Prosecutor-led Adult Diversion.** *Forthcoming in Criminology.* [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083068)
+**The Net-Narrowing Potential of Diversion: A Theoretical and Empirical Assessment of Prosecutor-led Adult Diversion.** *Forthcoming in Criminology.* (with Viet Nguyen) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083068)
 [[White paper]](https://github.com/phillydao/phillydao-public-data/raw/main/docs/reports/AMP_Whitepaper.pdf)
 
-Graef, L., & Ouss, A. (2025). **The Role of Case Management in Misdemeanor Prosecution.** *Criminology.* [[Paper]](https://doi.org/10.1111/1745-9125.70033) [[Replication Data & Code]](https://doi.org/10.7910/DVN/KX7VIV)
+**The Role of Case Management in Misdemeanor Prosecution.** *Criminology, 64*, 402–449 (2026). (with Aurélie Ouss) [[Paper]](https://doi.org/10.1111/1745-9125.70033) [[White Paper]](white_papers/The Role of Case Management in Low-level Prosecution.pdf) [[Replication Data & Code]](https://doi.org/10.7910/DVN/KX7VIV)
 
-Graef, L., Mayson, S., Stevenson, M. T., & Ouss, A. (2023). **Systemic Failure to Appear in Court.** *University of Pennsylvania Law Review, 172*(1).
+**Systemic Failure to Appear in Court.** *University of Pennsylvania Law Review, 172*(1) (2023). (with Sandy Mayson, Megan Stevenson, and Aurélie Ouss) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4558056) [[White Paper]](https://www.law.upenn.edu/live/files/13151-court-no-shows-a-systemic-issue)
 
-- **Research:** [\[Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4558056) [\[White Paper\]](https://www.law.upenn.edu/live/files/13151-court-no-shows-a-systemic-issue)
 - **Public Writing:** [\[Philadelphia Inquirer Op-Ed\]](https://www.inquirer.com/opinion/commentary/philadelphia-police-officers-failure-to-appear-court-20231201.html) [\[Law360 Op-Ed\]](https://www.law360.com/articles/1837604)
 - **Media Coverage:** [\[ABA Journal\]](https://www.abajournal.com/web/article/private-criminal-defense-lawyers-fail-to-show-up-for-their-cases-more-often-than-defendants-study-finds) [\[Advancing Pretrial Policy and Research\]](https://advancingpretrial.org/story/showing-up-for-court/) [\[Philadelphia Inquirer\]](https://www.inquirer.com/news/philadelphia/philadelphia-police-video-surveillance-drug-arrests-20240508.html)
+
 
 ### Working Papers
 
