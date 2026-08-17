@@ -15,7 +15,7 @@ website:
       - text: "Research"
         href: research.qmd
       - text: "Penn Prosecution Lab"
-        href: https://www.law.upenn.edu/institutes/quattronecenter/
+        href: https://www.law.upenn.edu/institutes/quattronecenter/prosecution-lab/
       - text: "Contact"
         href: contact.qmd
     right: []

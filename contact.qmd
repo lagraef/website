@@ -4,7 +4,6 @@ title: "Contact"
 
 You can reach me at lgraef [at] law.upenn.edu.
 
-University of Pennsylvania  
-Penn Carey Law
-Quattrone Center for the Fair Administration of Justice  
-
+University of Pennsylvania<br>
+Penn Carey Law<br>
+[Quattrone Center for the Fair Administration of Justice](https://www.law.upenn.edu/institutes/quattronecenter/)
