@@ -112,3 +112,40 @@ a {
 a:hover {
   color: #B2342A;
 }
+
+/* Homepage bio layout */
+.home-bio {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+.home-bio-photo {
+  flex: 0 0 30%;
+}
+
+.home-bio-photo img {
+  width: 100%;
+  max-width: 300px;
+}
+
+.home-bio-text {
+  flex: 1;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .home-bio {
+    display: block;
+  }
+
+  .home-bio-photo {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .home-bio-photo img {
+    width: 70%;
+    max-width: 280px;
+  }
+}

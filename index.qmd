@@ -2,13 +2,13 @@
 title: "Lindsay Graef"
 ---
 
-:::: {.columns}
+:::: {.home-bio}
 
-::: {.column width="30%"}
-![](images/Headshot_LG-10.jpg){width=90%}
+::: {.home-bio-photo}
+![](images/Headshot_LG-10.jpg)
 :::
 
-::: {.column width="65%"}
+::: {.home-bio-text}
 I study how legal actors and institutions shape the everyday administration of justice, with a focus on prosecutors and the lower courts. Much of my work is grounded in close partnership with criminal justice agencies to produce evidence that can inform policy and practice. I have worked with agencies in Los Angeles, Houston, and Philadelphia, including 5+ years as an embedded researcher in the Philadelphia District Attorney’s Office.
 
 I am the Research Director and co-founder of the [Penn Prosecution Lab](https://www.law.upenn.edu/institutes/quattronecenter/prosecution-lab/), an interdisciplinary research hub at the Quattrone Center for the Fair Administration of Justice at Penn Carey Law School. The Lab builds embedded research partnerships with prosecutors’ offices to generate rigorous evidence on prosecution and criminal justice reform.
@@ -17,5 +17,4 @@ Before coming to UPenn, I worked with Harvard’s Government Performance Lab to 
 :::
 
 ::::
-
 
